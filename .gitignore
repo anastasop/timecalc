@@ -1,0 +1,5 @@
+timecalc
+cpu.prof
+mem.prof
+vendor/
+*.log
